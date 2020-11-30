@@ -1,5 +1,5 @@
 import React from "react";
-import Marker from "@iconify/icons-mdi/image-filter-hdr";
+import Marker from "@iconify/icons-mdi/fire-alert";
 import Icon from "@iconify/react";
 
 const LocationMarker = ({ lat, lng, onClick }) => {
